@@ -1,0 +1,31 @@
+.container{
+  width: 100vw;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.top{
+    height: 30vh;
+    padding: 90px 0px 0px 0px;
+}
+
+.img{
+    width: 100vw;
+    margin: 0px;
+    height: 85vh;
+}
+
+.last{
+    height: 50vh;
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+}
+
+.last p{
+    margin: 0px 20%;
+    padding: 20px 0px;
+    text-align: center;
+}
